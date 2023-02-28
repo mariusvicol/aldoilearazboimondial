@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>WW2</title>
+	<link rel="shortcut icon " type="images/png" href="images/icon.jpg">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+<style>
+	html{
+		
+		background: url('images/wow2.jpg') no-repeat center center fixed;
+		-webkit - background-size: cover;
+		-moz - background-size: cover;
+		-o - background-size: cover;
+		background-size: cover;
+		display: block;
+	}
+	body{
+		color: #FFFFFF;
+	}
+</style>
+
+
+</head>
+<body>	
+	<div id="nav">
+		<h1><a href="index.html">Al Doilea Război Mondial</a></h1>
+
+		<ul>
+		<li ><a href="home.html">Acasă</a></li>
+				<li id="hello"><a href="wars.html">Etape ale războiului</a></li>				
+		<li><a href="alliances.html">Alianţe</a></li>
+		<li ><a href="importantpeople.html">Personalități</a></li>
+		<li><a href="holocaustul.html">Holocaustul</a></li>
+		<li><a href="rom.html">România în al Doilea Război Mondial</a></li>
+		<li><a href="qr.html">Testează-ți cunoștințele</a></li>
+</ul>
+
+		<br> <br>
+
+	<div style="position: absolute;left:5%;">
+		<font color="white"><a><h1 align="center">Batălia de la Dunkerque </h1></a></font>
+		</div> 
+<br> <br>
+<br> <br>
+<div class="main1" align="justify">
+<p>
+Batălia de la Dunkerque este numele sub care sunt cunoscute apărarea și evacuarea forțelor Aliaților care fuseseră separate de principalele trupe ale defensivei franceze de înaintarea rapidă a celor germane.
+</p>
+<p>
+După cele zece luni ale războiului ciudat, Bătălia Franței a început în dimineața de 10 mai 1940. În est, Grupul de Armate B germană a invadat și a ocupat Olanda. După aceasta, a înaintat spre vest prin Belgia. Pe 14 mai, Grupul de Armate B a năvălit prin regiunea Ardenilor și a înaintat rapid spre vest spre Sedan, după care și-a schimbat direcția de atac spre Canalul Mânecii. Această mișcare a fost numită de mareșalul Erich von Manstein „tăietura de seceră”.
+</p>
+<p>
+Cele câteva contraatacuri aliate nu au reușit să oprească înaintarea avangardei germane, care a atins coasta Atlanticului pe 20 mai, separând Corpul Expediționar Britanic de restul trupelor aliate lângă Armentières, iar Armata I franceză și armata belgiană ceva mai la nord. După ce au reușit să atingă coasta Canalului Mânecii, germanii și-au schimbat direcția de atac spre nord pentru a cuceri porturile din zonă și pentru a prinde în capcană forțele britanice și franceze mai înainte ca acestea să poată fi evacuate în Anglia.
+</p>
+<p><b>
+Bătălia</b>
+</p>
+<p>
+Pe 24 mai, Hitler a vizitat cartierul general al lui Gerd von Rundstedt de la Charleville. Von Rundstedt a sugerat ca infanteria să atace forțele britanice la Arras, iar blindatele comandate de Kleist să se plaseze pe un front la sud și vest de Dunkirk, de unde să distrugă forțele aliate care se retrăgeau din fața Grupului de Artmate B. O asemenea manevră ar fi permis germanilor să-și consolideze pozițiile și să se pregătească pentru o înaintare spre sud, împotriva restului forțelor franceze. În plus, terenul din jurul Dunkirkului era considerat nepotrivit pentru atacul tancurilor, așa că distrugerea forțelor aliate trebuia făcută de Luftwaffe și de infanteria Grupului de Armate B.
+</p>
+<p>
+Motivul real pentru care Hitler a luat decizia ca blindatele germane să-și oprească înaintarea este încă o problemă cercetată. Teoria cea mai cunoscută este aceea că von Rundstedt și Hitler au căzut de acord să păstreze blindatele pentru declanșarea unor noi operațiuni ofensive spre sud – în principal Operațiunea Fall Rot.
+</p>
+<p>
+Pe 25 mai 1940, comandantul Grupului expediționar britanic, generalul Gort, a decis să înceapă evacuarea forțelor din subordinea sa. Începând cu 25 mai până pe 28 mai, britanicii s-au retras cam 50 de kilometri spre nord-vest într-o pungă de rezistență de-a lungul frontierei franco-belgiene, care se întindea de la Dunkerque până la Poperinge. Belgienii s-au predat pe 28 mai, pentru ca a doua zi să capituleze elementele Armatei I franceze care se aflau în afara pungii de la Dunkerque.
+</p>
+<p>
+Începând cu ziua de 27 mai s-a declanșat evacuarea de la Dunkirk. Blindatele germane au primit în aceiași zi ordinul să reia atacul, dar defensiva bine organizată le-a oprit înaintarea pentru început, pentru ca mai apoi să oblige trupele aliate să se retragă până pe 31 mai într-o fâșie îngustă pe coasta Canalului, lată doar de 5 km, care se întindea de la De Panne prin Bray-Dunes.
+</p>
+<p>
+Din punga de la Dunkerque au fost evacuate trupe aparținând la cinci națiuni: britanici, francezi, belgieni, olandezi și polonezi.
+</p>
+<p>
+În luptele pentru apărarea pungii de la Dunkerque au căzut la datorie sau au fost capturați mai mulți soldați britanici. De asemenea, aproximativ 35.000 de soldați francezi au fost luați prizonieri. În ciuda acestor pierderi, în perioada 27 mai – 4 iunie, au fost evacuați 338.226 soldați, din care aproximativ 120.000 de francezi și belgieni.
+</p>
+<p>
+Urmări
+</p>
+<p>
+Evacuarea cu succes a celor 338.000 soldați aliați de la Dunkerque a încheiat prima fază a Bătăliei Franței. A asigurat creșterea moralului britanic, dar a lăsat armata franceză singură în fața asalutului german.
+</p>
+<p>
+Divizia a 51-a britanică a fost lăsată în ariergardă să acopere retragerea. Mulți dintre ei au căzut în luptă sau au căzut prizonieri. Trupele germane au intrat în Paris pe 14 iunie și Franța a capitulat pe 22 iunie.
+</p>
+<p>
+La Dunkirk a fost ridicat un monument după război cu mesajul: „Pentru glorioasa memorie a piloților, marinarilor și soldaților armatelor franceză și aliate care s-au sacrificat în bătălia de la Dunkirk mai iunie 1940”.
+</p>
+<p>
+Pierderea a celei mai mari părți a armelor, muniției și a altor materiale militare a făcut ca armata britanică să aibă nevoie de mai multe luni pentru a se reînarma și a-și recompleta stocurile de provizii. Introducerea în fabricație a unor noi echipamente militare a fost amânată până la completarea stocurilor armatei. Soldaților care erau evacuați de la Dunkerque li s-a ordonat ca să distrugă echipamentele pe care nu le puteau transporta cu ei în Anglia. Astfel, britanicii au incendiat sau dinamitat vehiculele, astfel încât să nu mai poată fi folosite de germani. Lipsa de vehicule de transport după evacuarea de la Dunkerque a fost atât de mare în Regatul Unit, încât serviciile de specialitate britanice au trebuit să recondiționeze până și autobuzele trimise la casat pentru a le folosi la transportul trupelor. Aceste autobuze, care nu corespundeau nici după recondiționare standardelor de securitate rutieră din regat, au mai fost folosite chiar și doi ani mai târziu, în timpul campaniei din Africa de nord.
+</p>
+	</div>
+	<div id="hello1">
+		
+	</div>
+	<div id="hello2">
+		
+	</div>
+
+</body>
+
+</html>
